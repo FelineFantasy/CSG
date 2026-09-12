@@ -2,6 +2,8 @@
 
 > **Code Style Guide** - coding standard for projects.
 
+🌐 **[Русская версия (Russian version)](./CSG.ru.md)**
+
 ---
 
 ## 📁 Project Structure
