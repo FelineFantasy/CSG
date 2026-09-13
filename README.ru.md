@@ -3,6 +3,8 @@
 - **Автор:** FelineFantasy
 - **Лицензия:** MIT
 
+🌐 **[English version](./README.md)**
+
 ---
 
 ## 📌 Описание
