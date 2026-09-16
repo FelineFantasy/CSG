@@ -11,7 +11,8 @@
 This repository contains the **Code Style Guide (CSG)** - a coding standard for projects.
 
 ## 📖 Contents
-- [CSG](./CSG.md)
+- [CSG (English)](./CSG.md)
+- [CSG (Русский)](./CSG.ru.md)
 
 ## 🔄 Usage
 All FelineFantasy projects follow this standard. If you wish to contribute, please adhere to these rules.
