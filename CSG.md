@@ -2,7 +2,7 @@
 
 > **Code Style Guide** - coding standard for projects.
 
-> 🇷🇺 **Русская версия:** [README.ru.md](README.ru.md)
+> 🇷🇺 **Русская версия:** [CSG.ru.md](CSG.ru.md)
 
 ---
 

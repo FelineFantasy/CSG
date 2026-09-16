@@ -2,7 +2,7 @@
 
 > **Code Style Guide** — стандарт кодирования для проектов.
 
-> 🇬🇧 **English version:** [README.md](README.md)
+> 🇬🇧 **English version:** [CSG.md](CSG.md)
 
 ---
 
