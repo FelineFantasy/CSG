@@ -8,14 +8,25 @@
 ---
 
 ## 📌 Description
-This repository contains the **Code Style Guide (CSG)** - a coding standard for projects.
+This repository contains the **Code Style Guide (CSG)** — a coding standard for projects.
+It is the target standard for all new FelineFantasy projects;
+existing ones are brought into compliance over time.
 
 ## 📖 Contents
 - [CSG (English)](./CSG.md)
 - [CSG (Русский)](./CSG.ru.md)
 
 ## 🔄 Usage
-All FelineFantasy projects follow this standard. If you wish to contribute, please adhere to these rules.
+All **new** FelineFantasy projects follow this standard.
+
+Existing projects are migrated gradually. Each project declares
+its compliance level in its own README:
+
+- `CSG: full` — fully compliant
+- `CSG: partial` — partially compliant, migration in progress
+- `CSG: legacy` — not compliant, kept as-is
+
+If you wish to contribute, please adhere to these rules.
 
 ## 💖 Support the Project
 
