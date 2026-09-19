@@ -6,6 +6,17 @@
 
 ---
 
+## 🎯 Scope
+This standard applies to all new projects (greenfield).
+Existing projects are migrated gradually and may declare
+a compliance level in their README:
+
+- `CSG: full` — fully compliant
+- `CSG: partial` — partially compliant, migration in progress
+- `CSG: legacy` — not compliant, kept as-is
+
+---
+
 ## 📁 Project Structure
 - All code must reside within the `src/` or `app/` directory.
 - No code should be placed in the project root.
