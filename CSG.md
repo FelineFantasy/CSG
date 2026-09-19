@@ -18,8 +18,13 @@ a compliance level in their README:
 ---
 
 ## 📁 Project Structure
-- All code must reside within the `src/` or `app/` directory.
-- No code should be placed in the project root.
+- All code must reside within `src/` or `app/`.
+- The project root may contain only:
+  - `README.md`, `LICENSE`, `CHANGELOG.md`
+  - build/config files (`Makefile`, `pyproject.toml`, `Cargo.toml`, `.gitignore`, etc.)
+- Exception: a single entrypoint (`main.*` or `<project_name>.*`)
+  may live in the root **for legacy projects only**.
+  New projects must place entrypoints inside `src/` or `app/`.
 
 ---
 
