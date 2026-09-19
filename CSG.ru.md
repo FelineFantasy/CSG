@@ -1,7 +1,7 @@
 # CSG - Руководство по стилю кода
 
 > **Code Style Guide** — стандарт кодирования для проектов.
-
+>
 > 🇬🇧 **English version:** [CSG.md](CSG.md)
 
 ---
