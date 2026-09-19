@@ -30,7 +30,9 @@ a compliance level in their README:
 
 ## 📝 Documentation and Comments
 - All code comments and documentation must be written in **English**.
-- Every **executable script** (e.g., Python, Bash) should begin with a **shebang** (`#!/usr/bin/env ...`) followed by a multi-line comment describing the project or module.
+- Every **executable script** (e.g., Python, Bash) **must** begin with a
+  **shebang** (`#!/usr/bin/env ...`) followed by a multi-line comment
+  describing the project or module.
 - **Shebangs are not required** for:
   - Python modules (e.g., files meant to be imported, not executed directly).
   - Rust crates.
